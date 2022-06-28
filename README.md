@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 123.hp.com/setup
 
-You can use the [editor on GitHub](https://github.com/123hp-comsetupp/123hp-comsetupp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![123.hp.com/setup](get-start-button.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Setting up a hp printer and installing it on your computer/laptop and mac is not an easy task if you don't have proper instructions that help you install the driver of the hp printer. Visit hp printer official website: **[123.hp.com/setup](https://123hp-comsetupp.github.io/)** and get to know the simple and quick steps to download and connect your hp printer software with your operating device.
 
-### Markdown
+## Download Steps for HP Printer Driver
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Follow the below-given steps to download printer driver for HP printer setup:_ 
 
-```markdown
-Syntax highlighted code block
+1. Open a web browser and then, go to **[123.hp.com/setup](https://123hp-comsetupp.github.io/)**. 
+2. Select Software & **HP Printer Drivers** from the list. 
+3. Enter your printer name or serial number and click on the Submit button. 
+4. Select your operating system. Then, click on the Download button located next to your printer driver. 
+5. The downloading process begins. Wait for its completion. 
+6. Once the download completes, it will be saved in the Downloads folder. 
 
-# Header 1
-## Header 2
-### Header 3
+## Install 123.hp.com/setup on your device ?
 
-- Bulleted
-- List
+_HP Printer is easy to install on any device whether it is your windows device or mac. Follow the steps given below to install the hp printer driver:_
 
-1. Numbered
-2. List
+1. Launch the HP printer software on your windows device.
+2. Power on your HP printer. If you have plugged the USB cord, disconnect it.
+3. Visit **[123.hp.com/setup](https://123hp-comsetupp.github.io/)** and select the name of your HP printer.
+4. Change the operating system version if needed and choose HP Driver Download that is available on the Drivers tab.
+5. Click the type of installation as recommended or typical when prompted by windows installer.
+6. The required full feature driver for your HP printer is searched and installed by the HP printer assistant software automatically.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Types of HP Printer Connection
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+HP Printer Setup has three ways to connect with your device. The most useful and easy to connect is the wireless connectivity setup. Here is a brief description explaining all the three types of [123.hp.com/setup](https://123hp-comsetupp.github.io/) connectivity:
 
-### Jekyll Themes
+### Wireless Network Setup:
+The wireless connection by the HP printer allows you to easily connect the printer to the wireless network. Also, you can send print directly to the printer from your computer.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/123hp-comsetupp/123hp-comsetupp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Ethernet Connection:
+Ethernet connection option allows you to create a wired connection using the Ethernet cable. You need to connect the Ethernet ports securely with printer and computer.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### USB Printing Setup:
+Hp printer setup allows you to print using their built-in USB drive from your drivers. It has an email scan facility which lets you print documents directly from the touch screen of your printer.
